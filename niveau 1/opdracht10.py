@@ -1,0 +1,7 @@
+print("geef drie getallen")
+nummer1 = float(input('nummer 1'))
+nummer2 = float(input("nummer 2"))
+nummer3 = float(input("nummer 3"))
+nummers = (nummer1 / nummer2 / nummer3) 
+round(nummers(4))
+print(nummers)
